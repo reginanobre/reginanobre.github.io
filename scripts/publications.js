@@ -14,7 +14,7 @@ var mypubli = '<h2>Publications</h2>\
      <b><papertitle>A conceptual model to assess the impact of anthropogenic drivers on water-related ecosystem services in the Brazilian Cerrado.</papertitle></b> \
   <br> \
   Resende, F., Denman, L., Selva, G., Campanhão, L., Nobre, R. L. G., et al. \
-  <em>Biota Neotropica,20 (suppl. 1): e20190899 </em>, 2020 \
+  <em>Biota Neotropica,20(suppl. 1): e20190899 </em>, 2020 \
   </p></td> \
 </tr> \
 <tr> \
@@ -25,7 +25,7 @@ var mypubli = '<h2>Publications</h2>\
   <br> \
   Nobre, R. L. G., Carneiro, L. S., González, M. J., Vanni, M. J., & Panek, S. E.\
   <br> \
-  <em>Frontiers in Ecology and Evolution, 7, 340 </em> (2019) \
+  <em>Frontiers in Ecology and Evolution, 7, 340 </em>, 2019 \
   <br> \
   <br><br><br> \
       <b><papertitle>Effects of the introduction of an omnivorous fish on the biodiversity and functioning of an upland Amazonian Lake</papertitle></b> \
@@ -35,16 +35,16 @@ Nobre, R. L.G., Caliman, A., Guariento, R. D., Bozelli, R. L., & Carneiro, L. S.
   <em>Acta Amazonica, 49(3), 221-231 </em>, 2019 \
   <br> \
   <br><br><br> \
-      <b><papertitle>Are the patterns of zooplankton community structure different between lakes and reservoirs?  A local   and regional assessment across tropical ecosystems.</papertitle></b> \
+      <b><papertitle>Are the patterns of zooplankton community structure different between lakes and reservoirs?  A local and regional assessment across tropical ecosystems</papertitle></b> \
   <br> \
 Cabral, C. R., Guariento, R. D., Ferreira, F. C., Amado, A. M., Nobre, R. L.G., Carneiro, L. S., & Caliman, A.\
   <br> \
-  <em> Aquatic Ecology, 53(3), 335-346</em>, 2019 \
+  <em>Aquatic Ecology, 53(3), 335-346</em>, 2019 \
   <br> \
   <br><br><br> \
       <b><papertitle>Effects of seasonality, trophic state and landscape proper- ties on CO2 saturation in low-latitude lakes and reservoirs.</papertitle></b> \
   <br> \
-  Junger P.C., Costa F.C., Nobre R. L. G., Kosten S., Martins E., Carvalho F. De,   et al\
+  Junger P.C., Costa F.C., Nobre R. L. G., Kosten S., Martins E., Carvalho F. De, et al.\
   <br> \
   <em>Science of the Total Environment 664, 283–295</em>, 2019 \
   <br> \
