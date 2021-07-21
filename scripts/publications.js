@@ -4,14 +4,14 @@ var mypubli = '<h2>Publications</h2>\
   <td width="25%" valign="top"> <h2>2020</h2></td> \
   <td width="75%" valign="top"> \
   <p align="justify"> \
-      <b><papertitle>)Precipitation, landscape properties and land use interactively affect water quality of tropical freshwaters</papertitle></b> \
+      <b><papertitle>Precipitation, landscape properties and land use interactively affect water quality of tropical freshwaters</papertitle></b> \
   <br> \
   Nobre, R. L. G., Caliman, A., Cabral, C., Guérin, Carneiro, L.S., Vanni, M., et al.\
   <br> \
   <em>Science of the total environment, 716, 137044</em>, 2020 \
   <br> \
    <br><br><br> \
-     <b><papertitle>)A conceptual model to assess the impact of anthropogenic drivers on water-related ecosystem services in the Brazilian Cerrado.</papertitle></b> \
+     <b><papertitle>A conceptual model to assess the impact of anthropogenic drivers on water-related ecosystem services in the Brazilian Cerrado.</papertitle></b> \
   <br> \
   Resende, F., Denman, L., Selva, G., Campanhão, L., Nobre, R. L. G., et al. \
   <em>Biota Neotropica,20 (suppl. 1): e20190899 </em>, 2020 \
@@ -28,7 +28,7 @@ var mypubli = '<h2>Publications</h2>\
   <em>Frontiers in Ecology and Evolution, 7, 340 </em> (2019) \
   <br> \
   <br><br><br> \
-      <b><papertitle>)Effects of the introduction of an omnivorous fish on the biodiversity and functioning of an upland Amazonian Lake</papertitle></b> \
+      <b><papertitle>Effects of the introduction of an omnivorous fish on the biodiversity and functioning of an upland Amazonian Lake</papertitle></b> \
   <br> \
 Nobre, R. L.G., Caliman, A., Guariento, R. D., Bozelli, R. L., & Carneiro, L. S. \
   <br> \
