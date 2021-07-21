@@ -1,0 +1,7 @@
+@inproceedings{andrade2019model,
+  title     = {A Model Based on LSTM Neural Networks to Identify Five Different Types of Malware},
+  author    = {Andrade, Eduardo de O and Viterbo, Jos{\'e} and Vasconcelos, Cristina N and Gu{\'e}rin, Joris and Bernardini, Flavia Cristina},
+  booktitle = {23rd International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES)},
+  year      = {2019}
+}
+ 

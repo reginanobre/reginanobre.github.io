@@ -1,0 +1,10 @@
+@inproceedings{DBLP:conf/bmvc/GuerinB18,
+  author    = {Joris Gu{\'{e}}rin and
+               Byron Boots},
+  title     = {Improving Image Clustering With Multiple Pretrained {CNN} Feature
+               Extractors},
+  booktitle = {British Machine Vision Conference 2018, {BMVC} 2018, Northumbria University,
+               Newcastle, UK, September 3-6, 2018},
+  pages     = {51},
+  year      = {2018},
+}
